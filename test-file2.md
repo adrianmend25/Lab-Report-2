@@ -1,3 +1,3 @@
 # Title
-[link1](http://google.com)
-[link2](ok().html)
+[link](http://google.com)
+![image](ok.jpg)
